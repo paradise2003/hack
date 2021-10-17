@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="gara-new" size="1.000000 0.667408" />
+    <ImageTarget name="park-new" size="1.000000 0.605000" />
+    <ImageTarget name="arme-new" size="1.000000 0.750000" />
+    <ImageTarget name="prim-new" size="1.000000 0.665586" />
+    <ImageTarget name="arc" size="1.000000 1.447789" />
+    <ImageTarget name="org2" size="1.000000 1.333333" />
+  </Tracking>
+</QCARConfig>
